@@ -1,20 +1,28 @@
 The component used in this projects are:-
 
-1.Esp32
+&nbsp;  
+**System & Sensors**
 
-2.Mq4,Mq7,Mq135,Mq136,DHT11 
+&nbsp;
+1.ESP32
+&nbsp;
+&nbsp;
+2.MQ4,MQ7,MQ135,MQ136,DHT11 
+&nbsp;
+&nbsp;
+3.Buzzer
+&nbsp;
+&nbsp;**Power Management Components:**
 
-&nbsp;  **The component mentioned in 2 are sensors used in this project**
-
-3.Buzzer 
-
-4.Battery
-
-5.Tp4056
-
-6.Mt3608
-
-&nbsp; **The components 4,5,6 are used in power management.**
-
+&nbsp;
+&nbsp;
+4.Battery (18650 3.7 V, 2200 mAH)
+&nbsp;
+&nbsp;
+5.TP4056  
+&nbsp;
+&nbsp;
+6.MT3608
+&nbsp;
 &nbsp;
 
