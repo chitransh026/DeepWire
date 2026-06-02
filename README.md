@@ -1,10 +1,10 @@
-# 🔬 DeepWire
+#  DeepWire
 
 > **Distributed Wireless Gas Monitoring System** — Real-time IoT safety architecture for industrial hazard detection using self-organizing mesh networks
 
 ---
 
-## 📋 Project Overview
+##  Project Overview
 
 DeepWire is an open-innovation embedded systems project that solves critical safety challenges in mines, factories, and industrial environments through **intelligent distributed gas sensing**. The system features a self-organizing mesh network of sensor nodes communicating via **ESP-NOW**, with autonomous node discovery, dynamic routing, and real-time threat detection.
 
@@ -18,7 +18,7 @@ DeepWire deploys autonomous sensor nodes that form a **self-healing mesh network
 
 ---
 
-## 🚀 Core Technical Features
+##  Core Technical Features
 
 ### **Distributed Sensor Architecture**
 - **Multi-gas detection**: CH₄ (methane), CO (carbon monoxide), CO₂ (air quality), H₂S (hydrogen sulfide)
@@ -62,7 +62,7 @@ DeepWire deploys autonomous sensor nodes that form a **self-healing mesh network
 
 ---
 
-## 🏗️ System Architecture
+##  System Architecture
 
 ### **Hardware Configuration**
 ```
@@ -124,7 +124,7 @@ STARTUP
 
 ---
 
-## 📊 Data Transmission Triggers
+##  Data Transmission Triggers
 
 Data is transmitted to the server in these scenarios:
 
@@ -216,7 +216,7 @@ DeepWire/
 
 ---
 
-## 🛠️ Hardware BOM (Bill of Materials)
+##  Hardware BOM (Bill of Materials)
 
 | Component | Spec | Role |
 |-----------|------|------|
@@ -233,7 +233,7 @@ DeepWire/
 
 ---
 
-## 🎯 Performance Characteristics
+##  Performance Characteristics
 
 | Metric | Value |
 |--------|-------|
@@ -296,7 +296,7 @@ Node 2                    Node 3 (Forwarder)        Server (Node 1)
 
 ---
 
-## 🎓 Educational Value
+##  Educational Value
 
 This project demonstrates:
 
